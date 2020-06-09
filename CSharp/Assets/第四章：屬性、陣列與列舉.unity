@@ -446,4 +446,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62ffe0ac53a0f7545959f218d72c0c4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _season: 1
+  _state: 2
+  _day: 2
   ship: {fileID: 1563967087}
+  name1: KID
+  name2: "50\u5927\u5927"
+  name3: "\u4EAE\u4EAE\u5927\u5927"
+  names: []
+  weights:
+  - 0
+  - 0
+  - 0
+  scores: 0a00000014000000320000005a000000
+  mission: 010000
+  A: 99
+  B: 63000000
